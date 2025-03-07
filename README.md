@@ -19,7 +19,7 @@
 ## Test Report 
 ![Report jpeg](https://github.com/user-attachments/assets/9dcf0652-34c2-4b24-9915-d9e303e62365)
 
-## Bug Report
+## TestCase and Bug Report
 https://docs.google.com/spreadsheets/d/1qjyhVqgayLItmfjtqCsiyXqbia9e6vZVxG60M24gSEM/edit?gid=1901042767#gid=1901042767
 
 
